@@ -1,2 +1,4 @@
 # Prediction-of-Restaurant-Success-Machine-Learning
-Predict success of a restaurant using machine learning
+Explatory data analysis,
+Feature Engineering,
+Develop a ,machine learning model to predict whether restaurant can be success or not. 
